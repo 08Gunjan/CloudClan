@@ -1,2 +1,2 @@
 # CloudClan
-This is a demo repository 
+This is a demo repository to experiment git ! 
